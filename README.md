@@ -1,4 +1,4 @@
-# React Native Code Challenge
+# React Native Code Challenge - GraphQL
 
 A React Native project with CRUD operation for Contractors, using GraphQL.
 
